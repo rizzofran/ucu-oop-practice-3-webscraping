@@ -1,0 +1,169 @@
+{
+  "ciudades": [
+    {
+      "nombre": "Montevideo",
+      "propiedades": [
+        {
+          "precio": "U$S 235.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 220.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 265.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 970.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 850.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 359.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 1.900.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 950.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 510.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 940.000",
+          "tamano": null,
+          "habitaciones": "2 Dorms."
+        }
+      ]
+    },
+    {
+      "nombre": "Punta del Este",
+      "propiedades": [
+        {
+          "precio": "U$S 1.300.000",
+          "tamano": "670m²",
+          "habitaciones": "11 Dorms."
+        },
+        {
+          "precio": "U$S 247.000",
+          "tamano": "137m²",
+          "habitaciones": "3 Dorms."
+        },
+        {
+          "precio": "U$S 2.200.000",
+          "tamano": "586m²",
+          "habitaciones": "4 Dorms."
+        },
+        {
+          "precio": "U$S 515.000",
+          "tamano": "195m²",
+          "habitaciones": "3 Dorms."
+        },
+        {
+          "precio": "U$S 4.500.000",
+          "tamano": "828m²",
+          "habitaciones": "6 Dorms."
+        },
+        {
+          "precio": "U$S 590.000",
+          "tamano": "280m²",
+          "habitaciones": "5 Dorms."
+        },
+        {
+          "precio": "U$S 345.000",
+          "tamano": "130m²",
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 750.000",
+          "tamano": "251m²",
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 740.000",
+          "tamano": "407m²",
+          "habitaciones": "5 Dorms."
+        },
+        {
+          "precio": "U$S 800.000",
+          "tamano": "305m²",
+          "habitaciones": "4 Dorms."
+        }
+      ]
+    },
+    {
+      "nombre": "Paysandú",
+      "propiedades": [
+        {
+          "precio": "U$S 117.000",
+          "tamano": "120m²",
+          "habitaciones": "3 Dorms."
+        },
+        {
+          "precio": "U$S 450.000",
+          "tamano": "355m²",
+          "habitaciones": "4 Dorms."
+        },
+        {
+          "precio": "U$S 270.000",
+          "tamano": "206m²",
+          "habitaciones": "4 Dorms."
+        },
+        {
+          "precio": "U$S 370.000",
+          "tamano": "300m²",
+          "habitaciones": "4 Dorms."
+        },
+        {
+          "precio": "U$S 60.000",
+          "tamano": "45m²",
+          "habitaciones": "1 Dorm"
+        },
+        {
+          "precio": "U$S 260.000",
+          "tamano": "181m²",
+          "habitaciones": "3 Dorms."
+        },
+        {
+          "precio": "U$S 85.000",
+          "tamano": "454m²",
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 312.000",
+          "tamano": "456m²",
+          "habitaciones": "2 Dorms."
+        },
+        {
+          "precio": "U$S 350.000",
+          "tamano": "204m²",
+          "habitaciones": "3 Dorms."
+        },
+        {
+          "precio": "U$S 380.000",
+          "tamano": "132m²",
+          "habitaciones": "2 Dorms."
+        }
+      ]
+    }
+  ]
+}
